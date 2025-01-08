@@ -1,4 +1,4 @@
-# Cloud Computing Reports
+![image](https://github.com/user-attachments/assets/d9109c1d-ec80-43cd-a041-e15427b89568)# Cloud Computing Reports
 
 ## Student Progress Table
 
@@ -26,11 +26,11 @@
 | 20  | Amir Hossein Jarahi          | Not Presented                |             |                          |                |                  |            |
 | 21  | Seyedeh Bita Amiri           | Presented                    |             |                          |                |                  |            |
 | 22  | Amir Saleh Rezaei Binabaj    | Presented                    |             |                          |                |                  |            |
-| 23  | Negar Barat Zadeh Darband    | Presented                    |             |                          |                |                  |            |
+| 23  | Negar Barat Zadeh Darband    | Presented                    |Presented    |Presented                 |Presented       |                  | (Front)    |
 | 24  | Arefeh Amidian               | Presented                    |             |                          |                |                  |            |
 | 25  | Naeimeh Tozari               | Presented                    |             |                          |                |                  |            |
 | 26  | Faezeh Alimiri               | Presented                    |             |                          |                |                  |            |
-| 27  | Sajjad Vosuq                 | Presented                    |             |                          |                |                  |            |
+| 27  | Sajjad Vosugh                | Presented                    |Presented    |Presented                 |                |                  | (Django)   |
 | 28  | Atena Derakhshan             | Not Presented                |             |                          |                |                  |            |
 | 29  | Mohammadhossein Mohammadian  | Presented                    |             |                          |                |                  |            |
 | 30  | Mohammadhossein Tamartash    | Not Presented                |             |                          |                |                  |            |
@@ -39,7 +39,7 @@
 | 33  | Faezeh Tavasoli Nia          | Presented                    |             |                          |                |                  |            |
 | 34  | Kiana Rajaeian               | Not Presented                |             |                          |                |                  |            |
 | 35  | Mohammadhossein Khosrowjerdi | Not Presented                |             |                          |                |                  |            |
-| 36  | Ali Fateh                    | Presented                    |             |                          |                |                  |            |
+| 36  | Ali Fateh Bojdan             | Presented                    |Presented    |Presented                 |Presented       |Presented         |Car (Django)  |
 | 37  | Abolfazl Esfandiari          | Presented                    |             |                          |                |                  |            |
 | 38  | Lotfollah Salehi             | Presented                    |             |                          |                |                  |            |
 | 39  | Mohammad Sajadian            | Presented                    |             |                          |                |                  |            |
