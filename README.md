@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/d9109c1d-ec80-43cd-a041-e15427b89568)# Cloud Computing Reports
 
 ## Student Progress Table
 
@@ -12,11 +11,11 @@
 | 6   | Maryam Kordi                 | Presented                    |             |                          |                |                  |            |
 | 7   | Atena Asi Seyghalani         | Presented                    |             |                          |                |                  |            |
 | 8   | Sepehr Tavanayi              | Presented                    |             |                          |                |                  |            |
-| 9   | Erfan Hassani                | Presented                    | Presented   | Presented                |  Presented     |  Presented       | Book (Django)   |
+| 9   | Erfan Hassani                | Presented                    | Presented   | Presented                |  Presented     |  Presented       | Book (Django) |
 | 10  | Mina Baravar                 | Presented                    |             |                          |                |                  |            |
 | 11  | Faezeh Barqi                 | Presented                    |             |                          |                |                  |            |
 | 12  | Yaht Yavari                  | Not Presented                |             |                          |                |                  |            |
-| 13  | Mohammadsajjad Rahmani        | Presented                    | Presented  | Presented                |  Presented     | Presented        | Electronics Store (Django)           |
+| 13  | Mohammadsajjad Rahmani       | Presented                    | Presented   | Presented                |  Presented     | Presented        | Electronics (Django) |
 | 14  | Mehdi Maleki                 | Presented                    |             |                          |                |                  |            |
 | 15  | Sobhan Davarzan              | Presented                    |             |                          |                |                  |            |
 | 16  | Ebrahim Rostami              | Not Presented                |             |                          |                |                  |            |
@@ -26,11 +25,11 @@
 | 20  | Amir Hossein Jarahi          | Not Presented                |             |                          |                |                  |            |
 | 21  | Seyedeh Bita Amiri           | Presented                    |             |                          |                |                  |            |
 | 22  | Amir Saleh Rezaei Binabaj    | Presented                    |             |                          |                |                  |            |
-| 23  | Negar Barat Zadeh Darband    | Presented                    |Presented    |Presented                 |Presented       |                  | (Front)    |
+| 23  | Negar Barat Zadeh Darband    | Presented                    |             |Presented                 |Presented       |                  | (Front)    |
 | 24  | Arefeh Amidian               | Presented                    |             |                          |                |                  |            |
 | 25  | Naeimeh Tozari               | Presented                    |             |                          |                |                  |            |
 | 26  | Faezeh Alimiri               | Presented                    |             |                          |                |                  |            |
-| 27  | Sajjad Vosugh                | Presented                    |Presented    |Presented                 |                |                  | (Django)   |
+| 27  | Sajjad Vosugh                | Presented                    |             | Presented                | Presented      |                  | (Django)   |
 | 28  | Atena Derakhshan             | Not Presented                |             |                          |                |                  |            |
 | 29  | Mohammadhossein Mohammadian  | Presented                    |             |                          |                |                  |            |
 | 30  | Mohammadhossein Tamartash    | Not Presented                |             |                          |                |                  |            |
