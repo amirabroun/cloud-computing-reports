@@ -10,7 +10,7 @@
 | 5   | Hanieh Dowlatabadi           | Not Presented                |             |                          |                |                  |            |
 | 6   | Maryam Kordi                 | Presented                    |             |                          |                |                  |            |
 | 7   | Atena Asi Seyghalani         | Presented                    |             |                          |                |                  |            |
-| 8   | Sepehr Tavanayi              | Presented                    |             |                          |                |                  |            |
+| 8   | Sepehr Tavanayi              | Presented                    |Presented    | Presented                |  Presented     |  Presented       | Scan (Django)  |
 | 9   | Erfan Hassani                | Presented                    | Presented   | Presented                |  Presented     |  Presented       | Book (Django) |
 | 10  | Mina Baravar                 | Presented                    |             |                          |                |                  |            |
 | 11  | Faezeh Barghi                 | Presented                    |             |                          |                |                  |            |
@@ -21,17 +21,17 @@
 | 16  | Ebrahim Rostami              | Not Presented                |             |                          |                |                  |            |
 | 17  | Bita Salehabadi              | Presented                    |             |                          |                |                  |            |
 | 18  | Elaheh Sadeghi               | Presented                    |             |                          |                |                  |            |
-| 19  | Narges Sadat Tabasi          | Presented                    |             |                          |                |                  |            |
+| 19  | Narges Sadat Tabasi          | Presented                    |             |Presented                 |Presented       |                  | Food (Django) |
 | 20  | Amir Hossein Jarahi          | Not Presented                |             |                          |                |                  |            |
 | 21  | Seyedeh Bita Amiri           | Presented                    |             |                          |                |                  |            |
 | 22  | Amir Saleh Rezaei Binabaj    | Presented                    |             |                          |                |                  |            |
 | 23  | Negar Barat Zadeh Darband    | Presented                    |             |Presented                 |Presented       |                  | (Front)    |
-| 24  | Arefeh Amidian               | Presented                    |             |                          |                |                  |            |
-| 25  | Naeimeh Tazari               | Presented                    |             |                          |                |                  |            |
+| 24  | Arefeh Amidian               | Presented                    |Presented    | Presented                |Presented       |Presented         | Task (Django)  |
+| 25  | Naeimeh Tazari               | Presented                    |             | Presented                |Presented       |                  | Marketing campaign(Django) |
 | 26  | Faezeh Alimirzaee            | Presented                    |             |                          |                |                  |            |
 | 27  | Sajjad Vosugh                | Presented                    |             | Presented                | Presented      |                  | (Django)   |
 | 28  | Atena Derakhshan             | Not Presented                |             |                          |                |                  |            |
-| 29  | Amir Hossein Mohammadian     | Presented                    |             |                          |                |                  |            |
+| 29  | Amir Hossein Mohammadian     | Presented                    |Presented    | Presented                |Presented       |Presented         | language(Node js)|
 | 30  | Mohammadhossein Tamartash    | Not Presented                |             | Presented                |                |                  |            |
 | 31  | Nima Mazloom                 | Not Presented                |             |                          |                |                  |            |
 | 32  | Abolfazl Javadi Nia          | Presented                    |             |                          |                |                  |            |
