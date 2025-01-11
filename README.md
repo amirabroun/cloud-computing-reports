@@ -6,7 +6,7 @@
 | 1   | Matin Kahi                   | Presented                    | Presented   |  Presented               |  Presented     | Presented        |  پروژه قدیمی  |
 | 2   | Amir Mohammad Yazdi          | Presented                    |             |                          |                |                  |            |
 | 3   | Mohammadjavad Jamali Namdan  | Presented                    |             |                          |                |                  |            |
-| 4   | Amir Reza Zeraati            | Presented                    |             |                          |                |                  |            |
+| 4   | Amir Reza Zeraati            | Presented                    | Presented   | Presented                | Presented      | Presented        | Game (Django) |
 | 5   | Hanieh Dowlatabadi           | Not Presented                |             |                          |                |                  |            |
 | 6   | Maryam Kordi                 | Presented                    |             |                          |                |                  |            |
 | 7   | Atena Asi Seyghalani         | Presented                    |             |                          |                |                  |            |
@@ -20,7 +20,7 @@
 | 15  | Sobhan Davarzani             | Presented                    |             |                          |                |                  |            |
 | 16  | Ebrahim Rostami              | Not Presented                |             |                          |                |                  |            |
 | 17  | Bita Salehabadi              | Presented                    |             |                          |                |                  |            |
-| 18  | Elaheh Sadeghi               | Presented                    |             |                          |                |                  |            |
+| 18  | Elaheh Sadeghi               | Presented                    |Presented    |                          | Presented      | Presented        | (Django)   |
 | 19  | Narges Sadat Tabasi          | Presented                    |             |Presented                 |Presented       |                  | Food (Django) |
 | 20  | Amir Hossein Jarahi          | Not Presented                |             |                          |                |                  |            |
 | 21  | Seyedeh Bita Amiri           | Presented                    |             |                          |                |                  |            |
