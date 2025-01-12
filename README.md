@@ -23,7 +23,7 @@
 | 18  | Elaheh Sadeghi               | Presented                    |Presented    |                          | Presented      | Presented        | (Django)   |
 | 19  | Narges Sadat Tabasi          | Presented                    |             |Presented                 |Presented       |                  | Food (Django) |
 | 20  | Amir Hossein Jarahi          | Not Presented                |             |                          |                |                  |            |
-| 21  | Seyedeh Bita Amiri           | Presented                    |             |                          |                |                  |            |
+| 21  | Seyedeh Bita Amiri           | Presented                    | Presented   | Presented                | Presented      |  Presented       | Mobile (Django) |
 | 22  | Amir Saleh Rezaei Binabaj    | Presented                    | Presented   | Presented                |Presented       |Presented         | Food (Node js)   |
 | 23  | Negar Barat Zadeh Darband    | Presented                    |             |Presented                 |Presented       |                  | (Front)    |
 | 24  | Arefeh Amidian               | Presented                    |Presented    | Presented                |Presented       |Presented         | Task (Django)  |
