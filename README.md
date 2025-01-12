@@ -19,7 +19,7 @@
 | 14  | Mehdi Maleki                 | Presented                    |             |                          |                |                  |            |
 | 15  | Sobhan Davarzani             | Presented                    |             |                          |                |                  |            |
 | 16  | Ebrahim Rostami              | Not Presented                |             |                          |                |                  |            |
-| 17  | Bita Salehabadi              | Presented                    |             |                          |                |                  |            |
+| 17  | Bita Salehabadi              | Presented                    |Presented    |Presented                 |Presented       |Presented         |Flower (Django)    |
 | 18  | Elaheh Sadeghi               | Presented                    |Presented    |                          | Presented      | Presented        | (Django)   |
 | 19  | Narges Sadat Tabasi          | Presented                    |             |Presented                 |Presented       |                  | Food (Django) |
 | 20  | Amir Hossein Jarahi          | Not Presented                |             |                          |                |                  |            |
@@ -40,7 +40,7 @@
 | 35  | Mohammadhossein Khosrowjerdi | Not Presented                |             |                          |                |                  |            |
 | 36  | Ali Fateh Bojdan             | Presented                    |Presented    |Presented                 |Presented       |Presented         |Car (Django)  |
 | 37  | Abolfazl Esfandiari          | Presented                    |             |                          |                |                  |            |
-| 38  | Lotfollah Salehi             | Presented                    |             |                          |                |                  |            |
+| 38  | Lotfollah Salehi             | Presented                    |Presented    |Presented                 |Presented       |Presented         | Game (Node js)           |
 | 39  | Mohammad Sajjadian           | Presented                    |             |                          |                |                  |            |
 | 40  | Zahra Eshaghian              | Presented                    |             |                          |                |                  |            |
 | 42  | Mohammad Amin Pouriyamehr    | Not Presented                |             |                          |                |                  |            |
