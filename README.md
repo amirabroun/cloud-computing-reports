@@ -9,7 +9,7 @@
 | 4   | Amir Reza Zeraati            | Presented                    | Presented   | Presented                | Presented      | Presented        | Game (Django) |
 | 5   | Hanieh Dowlatabadi           | Not Presented                |             |                          |                |                  |            |
 | 6   | Maryam Kordi                 | Presented                    |             |                          |                |                  |            |
-| 7   | Atena Asi Seyghalani         | Presented                    |             |                          |                |                  |            |
+| 7   | Atena Asi Seyghalani         | Presented                    |Presented    | Presented                |  Presented     |                  |            |
 | 8   | Sepehr Tavanayi              | Presented                    |Presented    | Presented                |  Presented     |  Presented       | Scan (Django)  |
 | 9   | Erfan Hassani                | Presented                    | Presented   | Presented                |  Presented     |  Presented       | Book (Django) |
 | 10  | Mina Baravar                 | Presented                    |             |                          |                |                  |            |
