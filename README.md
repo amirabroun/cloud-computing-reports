@@ -5,7 +5,7 @@
 |-----|------------------------------|------------------------------|-------------|--------------------------|----------------|------------------|------------|
 | 1   | Matin Kahi                   | Presented                    | Presented   |  Presented               |  Presented     | Presented        |  پروژه قدیمی  |
 | 2   | Amir Mohammad Yazdi          | Presented                    |             |                          |                |                  |            |
-| 3   | Mohammadjavad Jamali Namdan  | Presented                    |             |                          |                |                  |            |
+| 3   | Mohammadjavad Jamali Namdan  | Presented                    | Presented   | Presented                | Presented      | Presented        | (asp.net)           |
 | 4   | Amir Reza Zeraati            | Presented                    | Presented   | Presented                | Presented      | Presented        | Game (Django) |
 | 5   | Hanieh Dowlatabadi           | Not Presented                |             |                          |                |                  |            |
 | 6   | Maryam Kordi                 | Presented                    |             |                          |                |                  |            |
@@ -37,13 +37,13 @@
 | 32  | Abolfazl Javadi Nia          | Presented                    |             |                          |                |                  |            |
 | 33  | Faezeh Tavasoli Nia          | Presented                    |             |                          |                |                  |            |
 | 34  | Kiana Rajaeian               | Not Presented                |             |                          |                |                  |            |
-| 35  | Mohammadhossein Khosrowjerdi | Not Presented                |             |                          |                |                  |            |
+| 35  | Mohammad Amin Khosrowjerdi   | Not Presented                |Presented    |                          |                |                  | ToDo list (Django)    |
 | 36  | Ali Fateh Bojdan             | Presented                    |Presented    |Presented                 |Presented       |Presented         |Car (Django)  |
 | 37  | Abolfazl Esfandiari          | Presented                    |             |                          |                |                  |            |
 | 38  | Lotfollah Salehi             | Presented                    |Presented    |Presented                 |Presented       |Presented         | Game (Node js)           |
 | 39  | Mohammad Sajjadian           | Presented                    |             |                          |                |                  |            |
-| 40  | Zahra Eshaghian              | Presented                    |             |                          |                |                  |            |
+| 40  | Zahra Eshaghian              | Presented                    | Presented   |                          | Presented      | Presented        | coffee shop (Django)   |
 | 42  | Mohammad Amin Pouriyamehr    | Not Presented                |             |                          |                |                  |            |
 | 43  | Ali Reza Abbasi              | Not Presented                |             |                          |                |                  |            |
-| 44  | Zahra Darbeheshti            | Presented                    |             |                          |                |                  |            |
+| 44  | Zahra Darbeheshti            | Presented                    |             |Presented                 |Presented       |                  | Student (Django)  |
 | 45  | Fatemeh Hematabadi           | Not Presented                |             |                          |                |                  |            |
