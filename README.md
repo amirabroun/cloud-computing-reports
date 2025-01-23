@@ -28,7 +28,7 @@
 | 23  | Negar Barat Zadeh Darband    | Presented                    |             |Presented                 |Presented       |                  | (Front)    |
 | 24  | Arefeh Amidian               | Presented                    |Presented    | Presented                |Presented       |Presented         | Task (Django)  |
 | 25  | Naeimeh Tazari               | Presented                    |             | Presented                |Presented       |                  | Marketing campaign(Django) |
-| 26  | Faezeh Alimirzaee            | Presented                    |             |                          |                |                  |            |
+| 26  | Faezeh Alimirzaee            | Presented                    |             | Presented                |Presented       | Presented        | Music (Django)    |
 | 27  | Sajjad Vosugh                | Presented                    |             | Presented                | Presented      |                  | (Django)   |
 | 28  | Atena Derakhshan             | Not Presented                |             |                          |                |                  |            |
 | 29  | Amir Hossein Mohammadian     | Presented                    |Presented    | Presented                |Presented       |Presented         | language(Node js)|
