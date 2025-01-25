@@ -33,9 +33,9 @@
 | 28  | Atena Derakhshan             | Not Presented                |             |                          |                |                  |            |
 | 29  | Amir Hossein Mohammadian     | Presented                    |Presented    | Presented                |Presented       |Presented         | language(Node js)|
 | 30  | Mohammadhossein Tamartash    | Not Presented                |             | Presented                |                |                  |            |
-| 31  | Nima Mazloom                 | Not Presented                |             |                          |                |                  |            |
+| 31  | Nima Mazloom                 | Not Presented                |             | Presented                |Presented       |                  | Media (Django)  |
 | 32  | Abolfazl Javadi Nia          | Presented                    |             |                          |                |                  |            |
-| 33  | Faezeh Tavasoli Nia          | Presented                    |             |                          |                |                  |            |
+| 33  | Faezeh Tavasoli Nia          | Presented                    |             | Presented                |Presented       |                  | products (Django)           |
 | 34  | Kiana Rajaeian               | Not Presented                |             |                          |                |                  |            |
 | 35  | Mohammad Amin Khosrowjerdi   | Not Presented                |Presented    |                          |                |                  | ToDo list (Django)    |
 | 36  | Ali Fateh Bojdan             | Presented                    |Presented    |Presented                 |Presented       |Presented         |Car (Django)  |
