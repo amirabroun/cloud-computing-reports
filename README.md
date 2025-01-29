@@ -16,7 +16,7 @@
 | 11  | Faezeh Barghi                 | Presented                    |             |                          |                |                  |            |
 | 12  | Yahya Yavari                 | Not Presented                |             |                          |                |                  |            |
 | 13  | Mohammadsajjad Rahmani       | Presented                    | Presented   | Presented                |  Presented     | Presented        | Electronics (Django) |
-| 14  | Mehdi Maleki                 | Presented                    |             |                          |                |                  |            |
+| 14  | Mehdi Maleki                 | Presented                    | Presented   | Presented                | Presented      | Presented        | پروژه قدیمی           |
 | 15  | Sobhan Davarzani             | Presented                    |             |                          |                |                  |            |
 | 16  | Ebrahim Rostami              | Not Presented                |Presented    |Presented                 |Presented       |Presented         | Movie (Django)   |
 | 17  | Bita Salehabadi              | Presented                    |Presented    |Presented                 |Presented       |Presented         |Flower (Django)    |
@@ -41,7 +41,7 @@
 | 36  | Ali Fateh Bojdan             | Presented                    |Presented    |Presented                 |Presented       |Presented         |Car (Django)  |
 | 37  | Abolfazl Esfandiari          | Presented                    |             |                          |                |                  |            |
 | 38  | Lotfollah Salehi             | Presented                    |Presented    |Presented                 |Presented       |Presented         | Game (Node js)           |
-| 39  | Mohammad Sajjadian           | Presented                    |             |                          |                |                  |            |
+| 39  | Mohammad Sajjadian           | Presented                    |             | Presented                | Presented      |                  | Car (Django) |
 | 40  | Zahra Eshaghian              | Presented                    | Presented   |                          | Presented      | Presented        | coffee shop (Django)   |
 | 42  | Mohammad Amin Pouriyamehr    | Not Presented                |             |                          |                |                  |            |
 | 43  | Ali Reza Abbasi              | Not Presented                |             |                          |                |                  |            |
