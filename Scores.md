@@ -34,7 +34,7 @@
 | 32     | Abolfazl Javadi Nia         | 4.5   |
 | 33     | Faezeh Tavasoli Nia         | 2.5   | کراد مشابه و اجرای کانتینر |
 | 34     | Kiana Rajaeian              | 0     | 
-| 35     | Mohammad Amin Khosrowjerdi  | 2.5   | اجرای پروژه و کانتینر |
+| 35     | Mohammad Amin Khosrowjerdi  | 2.5   | (windows !!!) اجرای پروژه و کانتینر |
 | 36     | Ali Fateh Bojdan            | 4.5   |
 | 37     | Abolfazl Esfandiari         | 3     | اجرای کانتینر و داکرایز مشابه |
 | 38     | Lotfollah Salehi            | 3.5   | داکرایز مشابه |
