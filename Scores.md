@@ -31,7 +31,7 @@
 | 29     | Amir Hossein Mohammadian    | 4     | اجرای پروژه (env) |
 | 30     | Mohammadhossein Tamartash   | 3     | (windows !!!) اجرای پروژه |
 | 31     | Nima Mazloom                | 3.5   | اجرای پروژه |
-| 32     | Abolfazl Javadi Nia         | 4.5   |
+| 32     | Abolfazl Javadi Nia         |4.5+1.5|
 | 33     | Faezeh Tavasoli Nia         | 2.5   | کراد مشابه و اجرای کانتینر |
 | 34     | Kiana Rajaeian              | 0     | 
 | 35     | Mohammad Amin Khosrowjerdi  | 2.5   | (windows !!!) اجرای پروژه و کانتینر |
