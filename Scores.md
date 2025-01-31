@@ -1,5 +1,5 @@
 | Row    | Full Name                   | Score |
-|--------|-----------------------------|-------|
+|--------|-----------------------------|-------|---------------------------------|
 | 1      | Matin Kahi                  | 4.5   |
 | 2      | Amir Mohammad Yazdi         | 0.5   | فقط نصب داکر |
 | 3      | Mohammadjavad Jamali Namdan | 3     | کراد یوزر |
@@ -10,7 +10,7 @@
 | 8      | Sepehr Tavanayi             | 4.5   |
 | 9      | Erfan Hassani               | 4.5   |
 | 10     | Mina Baravar                | 0.5   | فقط نصب داکر |
-| 11     | Faezeh Barghi               | 2.5     | مشکل کراد و اجرای پروژه |
+| 11     | Faezeh Barghi               | 2.5   | مشکل کراد و اجرای پروژه |
 | 12     | Yahya Yavari                | 0     |
 | 13     | Mohammadsajjad Rahmani      | 4.5   |
 | 14     | Mehdi Maleki                | 4.5   |
