@@ -1,7 +1,7 @@
 | Row    | Full Name                   | Score | مشکلات پروژه                   |
 |--------|-----------------------------|-------|---------------------------------|
 | 1      | Matin Kahi                  | 4.5   |
-| 2      | Amir Mohammad Yazdi         | 0.5   | فقط نصب داکر |
+| 2      | Amir Mohammad Yazdi         | 3     | مشکل در درک کانتینر های خارجی |
 | 3      | Mohammadjavad Jamali Namdan | 3     | کراد یوزر |
 | 4      | Amir Reza Zeraati           | 4.5   |
 | 5      | Hanieh Dowlatabadi          | 0     |
@@ -11,7 +11,7 @@
 | 9      | Erfan Hassani               | 4.5   |
 | 10     | Mina Baravar                | 0.5   | فقط نصب داکر |
 | 11     | Faezeh Barghi               | 2.5   | کراد و اجرای پروژه |
-| 12     | Yahya Yavari                | 0     |
+| 12     | Yahya Yavari                | 2     | کراد اشتباه، نحوه اجرای کانتینر ها |
 | 13     | Mohammadsajjad Rahmani      | 4.5   |
 | 14     | Mehdi Maleki                | 4.5   |
 | 15     | Sobhan Davarzani            | 0.5   | فقط نصب داکر |
@@ -19,8 +19,8 @@
 | 17     | Bita Salehabadi             | 3.5   | اجرای پروژه و داکرایز |
 | 18     | Elaheh Sadeghi              | 3     | کراد و داکرایز |
 | 19     | Narges Sadat Tabasi         | 2.5   | اجرای پروژه |
-| 20     | Amir Hossein Jarahi         | 0     |
-| 21     | Seyedeh Bita Amiri          | 4     | RESTful API in postman |
+| 20     | Amir Hossein Jarahi         | 1.5   | استفاده گیت، کراد مشابه، کانتینر مشابه و مشکل اجرای کانتینر |  
+| 21     | Seyedeh Bita Amiri          | 3.5   | RESTful API in postman & شبکه کانتینر ها |
 | 22     | Amir Saleh Rezaei Binabaj   | 4     | در روند استفاده از کانتینر (env) |
 | 23     | Negar Barat Zadeh Darband   | 2.5   | داکرایز و اتصال به پروژه بک |
 | 24     | Arefeh Amidian              | 4.5   |
