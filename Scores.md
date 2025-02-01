@@ -41,7 +41,7 @@
 | 39     | Mohammad Sajjadian          | 3     | اجرای کانتینر و داکرایز مشابه |
 | 40     | Zahra Eshaghian             | 2.5   | اجرای کانتینر اصلی و شبکه کانتینرها |
 | 41     | Mohammad Amin Pouriyamehr   | 1.5   | نبود کراد و استفاده نادرست از گیت و داکرفایل‌ها |
-| 42     | Ali Reza Abbasi             | 0     |
+| 42     | Ali Reza Abbasi             | 4     |
 | 43     | Zahra Darbeheshti           | 3     | اجرای کانتینر اصلی |
 | 44     | Fatemeh Hematabadi          | 0     |
 

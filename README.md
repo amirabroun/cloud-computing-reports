@@ -44,6 +44,6 @@
 | 39  | Mohammad Sajjadian           | Presented                    |             | Presented                | Presented      |                  | Car (Django) |
 | 40  | Zahra Eshaghian              | Presented                    | Presented   |                          | Presented      | Presented        | coffee shop (Django)   |
 | 42  | Mohammad Amin Pouriyamehr    | Not Presented                |             | Presented                | Presented      |                  |            |
-| 43  | Ali Reza Abbasi              | Not Presented                |             |                          |                |                  |            |
+| 43  | Ali Reza Abbasi              | Not Presented                | Presented   |                          |                |                  |            |
 | 44  | Zahra Darbeheshti            | Presented                    |             | Presented                | Presented      |                  | Student (Django)  |
 | 45  | Fatemeh Hematabadi           | Not Presented                |             |                          |                |                  |            |
